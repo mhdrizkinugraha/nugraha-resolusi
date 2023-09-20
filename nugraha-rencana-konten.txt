@@ -3,7 +3,10 @@ rencanca konten nugraha
 -javascript
   *ES6
   *Framework Javascirpt
+   -vue
 -structur dasar
 -PHP Framework
+  *Laravel
 -interview
 -vlog
+-phyton
