@@ -3,9 +3,11 @@ rencanca konten nugraha
 -javascript
   *ES6
   *Framework Javascirpt
-   -angular
+   -vue
    -react
+-structur dasar
 -PHP Framework
-  *laravel
+  *Laravel
 -interview
 -vlog
+-phyton
