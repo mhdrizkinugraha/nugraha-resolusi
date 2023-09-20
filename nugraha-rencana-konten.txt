@@ -4,6 +4,7 @@ rencanca konten nugraha
   *ES6
   *Framework Javascirpt
    -vue
+   -react
 -structur dasar
 -PHP Framework
   *Laravel
