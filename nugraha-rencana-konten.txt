@@ -3,6 +3,7 @@ rencanca konten nugraha
 -javascript
   *ES6
   *Framework Javascirpt
+-structur dasar
 -PHP Framework
 -interview
 -vlog
