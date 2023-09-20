@@ -3,7 +3,9 @@ rencanca konten nugraha
 -javascript
   *ES6
   *Framework Javascirpt
--structur dasar
+   -angular
+   -react
 -PHP Framework
+  *laravel
 -interview
 -vlog
